@@ -1,0 +1,10 @@
+RedText{
+	color: purple;
+}
+.BlueText{
+	color: black;
+}
+.myself{
+	background-image:url("../images/pict.jpg")
+	background-repeat: no repeat;
+}
